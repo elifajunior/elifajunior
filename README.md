@@ -75,7 +75,7 @@ Estou sempre buscando melhorar minhas habilidades e aprender novas tecnologias p
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elifajunior&show_icons=true&theme=radical)
 
 ## 📬 Vamos nos Conectar?
 
